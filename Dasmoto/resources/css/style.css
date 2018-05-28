@@ -1,0 +1,42 @@
+h1,
+h2,
+h3,
+p {
+  font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-repeat: repeat-x;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.dasmoto {
+  margin: auto;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+.starting {
+  font-weight: bold;
+  color: blue;
+}
